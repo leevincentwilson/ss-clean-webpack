@@ -1,6 +1,6 @@
 {
   "name": "ss-clean-webpack",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "Clean webpack for clean slate projects",
   "main": "index.js",
   "scripts": {
